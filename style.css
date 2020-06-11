@@ -1,0 +1,19 @@
+html{
+    height: 100%
+}
+body{
+    max-width:400px;
+    height: 100%;
+    margin: 0 auto;
+
+
+}
+.card{
+    
+border:0px !important;
+
+}
+.form-control {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
