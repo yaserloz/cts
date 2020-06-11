@@ -1,3 +1,3 @@
-# cts
-Cts transportation time table
+# Cts
+
 #Add your cts token to ``myJsFunction.js->ajaxRequest``
