@@ -30,7 +30,7 @@ function ajaxRequest(method, url, handelData){
 
 
     beforeSend: function (xhr) {
-      xhr.setRequestHeader ("Authorization", "Basic " + btoa(""))
+      xhr.setRequestHeader ("Authorization", "Basic " + btoa("cts token here"))
     },
     url:url,
     success: handelData
